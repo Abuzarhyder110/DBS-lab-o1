@@ -1,0 +1,6 @@
+INSERT INTO Students (StudentsID, FirstName, LastName, Department) VALUES
+(1, 'Abuzar', 'Hyder', 'Artificial Intelligence'),
+(2, 'Saifullah', 'Mirza', 'Civil'),
+(3, 'Ayan', 'Pathan', 'Electrical'),
+(4, 'Talha', 'Pirzada', 'Cyber Security'),
+(5, 'Arslan', 'Brohi', 'Telecommunication');
